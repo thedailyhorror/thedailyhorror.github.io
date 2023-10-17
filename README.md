@@ -1,2 +1,0 @@
-# thedailyhorror.github.io
-Website
